@@ -1,2 +1,2 @@
 # ShubhamSaxena8.github.io
-As per my knowledge, this is a live site that i'm going to update after learning few things.
+just using it to make my personal site.
