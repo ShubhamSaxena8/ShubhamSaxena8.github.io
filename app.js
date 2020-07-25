@@ -1,6 +1,6 @@
 var i = 0;
 var Hellotxt = 'Hello !';
-var intoNametxt = 'My name is Shubham Saxena.'
+var intoNametxt = "I'm Shubham Saxena."
 var intoProftxt = 'I am a Software Developer.'
 var hellotxtspeed = 100;
 var introtxtspeed = 50;
