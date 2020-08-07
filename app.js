@@ -1,6 +1,6 @@
 var i = 0;
 var Hellotxt = 'Hello !';
-var intoNametxt = "I'm Shubham Saxena."
+var intoNametxt = "My name is Shubham Saxena."
 var intoProftxt = 'I am a Software Developer.'
 var hellotxtspeed = 100;
 var introtxtspeed = 50;
@@ -15,6 +15,7 @@ function typeHello() {
       typeName();
     }
   }
+
   function typeName(){
     if (i < intoNametxt.length) {
       document.getElementById("introName").innerHTML += intoNametxt.charAt(i);
